@@ -1,0 +1,14 @@
+{
+    "registration_ids":["",""],
+    "data":{
+        "title":"title",
+        "message":"message"
+    },
+    "content_available":true,
+    "notification":{
+        "sound":"default",
+        "title":"title",
+        "bodY":"message"
+    },
+    "priority":"high"
+}
